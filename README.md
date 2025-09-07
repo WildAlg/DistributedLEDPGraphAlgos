@@ -1,6 +1,6 @@
 # Distributed LEDP Graph Algorithms
 
-This repository contains the implementation for the following Practical and Accurate Local Differentially Private Graph Algorithms. The code is written in Go, with python scripts for data processing. 
+This repository contains the implementation for the following the paper: [https://arxiv.org/abs/2506.20828](Practical and Accurate Local Differentially Private Graph Algorithms). The code is written in Go, with python scripts for data processing. 
 
 ## Code Structure
 
